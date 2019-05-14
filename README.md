@@ -1,2 +1,1 @@
-# freecodecampnode
-free code camp node project
+# Backend Challenges boilerplate - package.json
